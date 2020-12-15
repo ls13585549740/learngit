@@ -6,6 +6,6 @@ Git tracks changes of files
 hello world
 Creating a new branch is quick
 Creating a new branch is so and quick
-merge
+merge a fech
 
 
